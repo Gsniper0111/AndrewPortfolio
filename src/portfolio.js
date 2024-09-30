@@ -282,7 +282,7 @@ const experience = {
           title: "Full Stack Developer",
           company: "Infinite Computer Solutions",
           company_url: "https://infinite.com/",
-          logo_path: "relog3p.jpg", //have to be correct
+          logo_path: "infinite_logo.png", //have to be correct
           duration: "June 2024 - Present",
           location: "Remote",
           description:
@@ -306,7 +306,7 @@ const experience = {
           title: "Software Engineer (Full-time)",
           company: "Fable Consortium",
           company_url: "https://fableconsortium.org/",
-          logo_path: "nus.png",
+          logo_path: "Fable Consortium.png",
           duration: "Feb 2022 - Mar 2023",
           location: "Remote",
           description: `•Developed a web-based tool for analyzing and visualizing Green House Gas Emission and AFOLU data using Next.js, React.js, and Tailwind CSS.
@@ -320,7 +320,7 @@ const experience = {
           title: "Senior Java Engineer (Full-time)",
           company: "Membersy",
           company_url: "https://membersy.com/",
-          logo_path: "nus.png",
+          logo_path: "Membersy.png",
           duration: "Nov 2019 - Dec 2021",
           location: "Hybrid",
           description: `•Enhanced the functionality and error handling capabilities of existing Golang and Java RESTful APIs using Spring Framework.
@@ -336,7 +336,7 @@ const experience = {
           title: "Full Stack Engineer (Full-time)",
           company: "Mythical Games",
           company_url: "https://mythicalgames.com/",
-          logo_path: "nus.png",
+          logo_path: "Mythical Games.jpg",
           duration: "Aug 2018 - Sep 2019",
           location: "Remote",
           description: `•Worked in a highly collaborative Agile team environment to develop web-based applications using JavaScript frameworks like React.js, Angular.js, and Backbone.js.
@@ -352,7 +352,7 @@ const experience = {
           title: "Java Engineer (Full-time)",
           company: "Dedicated Developers",
           company_url: "https://dedicateddevelopers.com/",
-          logo_path: "nus.png",
+          logo_path: "Dedicated Developers.png",
           duration: "Jul 2016 - Jul 2018",
           location: "Remote",
           description: `•Extensive expertise in developing intricate web user interfaces, deeply understanding user interaction, design principles, and standards.
