@@ -316,6 +316,54 @@ const experience = {
         `,
           color: "#0071C5",
         },
+        {
+          title: "Senior Java Engineer (Full-time)",
+          company: "Membersy",
+          company_url: "https://membersy.com/",
+          logo_path: "nus.png",
+          duration: "Nov 2019 - Dec 2021",
+          location: "Hybrid",
+          description: `•Enhanced the functionality and error handling capabilities of existing Golang and Java RESTful APIs using Spring Framework.
+•Developed Restful APIs and multi-server applications using Golang to meet product requirements.
+•Designed and implemented highly scalable solutions by utilizing concurrency primitives such as multi-threading, mutexes, semaphores, etc., and following best practices like TDD (Test Driven Development).
+•Implemented unit and integration tests on multiple Java web applications' back end using JUnit and Mockito.
+•Proficient in using build/deploy tools such as Jenkins, Docker, and Kubernetes for Continuous Integration & Deployment of Microservices.
+          `,
+          color: "#0071C5",
+        },
+
+        {
+          title: "Full Stack Engineer (Full-time)",
+          company: "Mythical Games",
+          company_url: "https://mythicalgames.com/",
+          logo_path: "nus.png",
+          duration: "Aug 2018 - Sep 2019",
+          location: "Remote",
+          description: `•Worked in a highly collaborative Agile team environment to develop web-based applications using JavaScript frameworks like React.js, Angular.js, and Backbone.js.
+•Built reusable, responsive pages on frontend frameworks like Angular and React.js with Tailwind CSS, Headless UI, and other tools to create visually appealing and user-friendly interfaces.
+•Developed DApps using HTML, JavaScript, and Node.js, and interacted with Ethereum Blockchain using Web3.js APIs and Metamask.
+•Created web-based applications in React.js and stored transactions in Ethereum Network using Solidity language.
+•Experienced in building NFT marketplaces and DeFi/DApp development with token protocols such as ERC20, ERC21, ERC721, ERC-1155, and Opensea.
+          `,
+          color: "#0071C5",
+        },
+
+        {
+          title: "Java Engineer (Full-time)",
+          company: "Dedicated Developers",
+          company_url: "https://dedicateddevelopers.com/",
+          logo_path: "nus.png",
+          duration: "Jul 2016 - Jul 2018",
+          location: "Remote",
+          description: `•Extensive expertise in developing intricate web user interfaces, deeply understanding user interaction, design principles, and standards.
+•Revamped and modernized company website, incorporating sleek and responsive components using React on a Java Backend (Spring Boot).
+•Proficient in creating and utilizing RESTful APIs with Swagger, and well-versed in CI/CD practices.
+Implemented all components using Test-Driven Development (TDD) methodology with JUnit, ensuring high-quality code and efficient development.
+•Skilled in utilizing Golang drivers to execute operations such as CRUD and complex queries with PostgreSQL, MySQL, MongoDB, and Redis.
+•Boosted data quality and system uptime by generating statistics for data pipelines using Golang.
+          `,
+          color: "#0071C5",
+        },
       ],
     },
   ],
