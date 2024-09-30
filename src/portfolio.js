@@ -239,7 +239,7 @@ const degrees = {
         "⚡ I have implemented several Web3 projects based on what I've learnt under my blockchain course.",
       ],
       website_link: "https://www.tum.de/",
-    }
+    },
   ],
 };
 
@@ -254,7 +254,7 @@ const certifications = {
       // alt_name: "Bachelor of Engineering",
       // // color_code: "#2AAFED",
       // color_code: "#47A048",
-    }
+    },
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
     // color_code: "#0C9D5899",
@@ -282,86 +282,11 @@ const experience = {
           title: "Full Stack Developer",
           company: "Infinite Computer Solutions",
           company_url: "https://infinite.com/",
-          logo_path: "",
+          logo_path: "relog3p.jpg", //have to be correct
           duration: "June 2024 - Present",
           location: "Remote",
-          description: `Developed a comprehensive inventory management system leveraging barcode and RFID technology, enhancing tracking accuracy and operational efficiency for retail and warehouse environments.`,
-          color: "#0071C5",
-        },
-        {
-          title: "Full Stack Lead Developer (Full-time)",
-          company: "ReLOG3P SRL",
-          company_url: "https://relog3p.com/",
-          logo_path: "relog3p.jpg",
-          duration: "Sep 2023 - Mar 2024",
-          location: "Remote",
-          description: `•Contributed to convert the existing web platforms built with CMS(Wordpress, Drupal) into MERN stack based ones.
-                        •Devoted to UI/UX designing with MUI.
-                        •Achieved remarkable performance in reorganizing big MySQL database.
-          `,
-          color: "#0071C5",
-        },
-        {
-          title: "Software Engineer (Full-time)",
-          company: "Fable Consortium",
-          company_url: "https://fableconsortium.org/",
-          logo_path: "nus.png",
-          duration: "Feb 2022 - Mar 2023",
-          location: "Remote",
-          description: `•Developed a web-based tool for analyzing and visualizing Green House Gas Emission and AFOLU data using Next.js, React.js, and Tailwind CSS.
-•Utilized the Fusion charts library to create interactive graphs that displayed emissions reduction potential and implications of mitigation options.
-•Designed the graphical user interface of the website with a focus on user experience and data visualization.
-•The tool provided valuable insights into GHG emissions and helped organizations make informed decisions about mitigation strategies.
-        `,
-          color: "#0071C5",
-        },
-
-{
-          title: "Senior Java Engineer (Full-time)",
-          company: "Membersy",
-          company_url: "https://membersy.com/",
-          logo_path: "nus.png",
-          duration: "Nov 2019 - Dec 2021",
-          location: "Hybrid",
-          description: `•Enhanced the functionality and error handling capabilities of existing Golang and Java RESTful APIs using Spring Framework.
-•Developed Restful APIs and multi-server applications using Golang to meet product requirements.
-•Designed and implemented highly scalable solutions by utilizing concurrency primitives such as multi-threading, mutexes, semaphores, etc., and following best practices like TDD (Test Driven Development).
-•Implemented unit and integration tests on multiple Java web applications' back end using JUnit and Mockito.
-•Proficient in using build/deploy tools such as Jenkins, Docker, and Kubernetes for Continuous Integration & Deployment of Microservices.
-          `,
-          color: "#0071C5",
-        },
-
-{
-          title: "Full Stack Engineer (Full-time)",
-          company: "Mythical Games",
-          company_url: "https://mythicalgames.com/",
-          logo_path: "nus.png",
-          duration: "Aug 2018 - Sep 2019",
-          location: "Remote",
-          description: `•Worked in a highly collaborative Agile team environment to develop web-based applications using JavaScript frameworks like React.js, Angular.js, and Backbone.js.
-•Built reusable, responsive pages on frontend frameworks like Angular and React.js with Tailwind CSS, Headless UI, and other tools to create visually appealing and user-friendly interfaces.
-•Developed DApps using HTML, JavaScript, and Node.js, and interacted with Ethereum Blockchain using Web3.js APIs and Metamask.
-•Created web-based applications in React.js and stored transactions in Ethereum Network using Solidity language.
-•Experienced in building NFT marketplaces and DeFi/DApp development with token protocols such as ERC20, ERC21, ERC721, ERC-1155, and Opensea.
-          `,
-          color: "#0071C5",
-        },
-
-{
-          title: "Java Engineer (Full-time)",
-          company: "Dedicated Developers",
-          company_url: "https://dedicateddevelopers.com/",
-          logo_path: "nus.png",
-          duration: "Jul 2016 - Jul 2018",
-          location: "Remote",
-          description: `•Extensive expertise in developing intricate web user interfaces, deeply understanding user interaction, design principles, and standards.
-•Revamped and modernized company website, incorporating sleek and responsive components using React on a Java Backend (Spring Boot).
-•Proficient in creating and utilizing RESTful APIs with Swagger, and well-versed in CI/CD practices.
-Implemented all components using Test-Driven Development (TDD) methodology with JUnit, ensuring high-quality code and efficient development.
-•Skilled in utilizing Golang drivers to execute operations such as CRUD and complex queries with PostgreSQL, MySQL, MongoDB, and Redis.
-•Boosted data quality and system uptime by generating statistics for data pipelines using Golang.
-          `,
+          description:
+            "Developed a comprehensive inventory management system leveraging barcode and RFID technology, enhancing tracking accuracy and operational efficiency for retail and warehouse environments.",
           color: "#0071C5",
         },
       ],
