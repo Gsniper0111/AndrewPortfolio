@@ -302,6 +302,20 @@ const experience = {
           `,
           color: "#0071C5",
         },
+        {
+          title: "Software Engineer (Full-time)",
+          company: "Fable Consortium",
+          company_url: "https://fableconsortium.org/",
+          logo_path: "nus.png",
+          duration: "Feb 2022 - Mar 2023",
+          location: "Remote",
+          description: `•Developed a web-based tool for analyzing and visualizing Green House Gas Emission and AFOLU data using Next.js, React.js, and Tailwind CSS.
+•Utilized the Fusion charts library to create interactive graphs that displayed emissions reduction potential and implications of mitigation options.
+•Designed the graphical user interface of the website with a focus on user experience and data visualization.
+•The tool provided valuable insights into GHG emissions and helped organizations make informed decisions about mitigation strategies.
+        `,
+          color: "#0071C5",
+        },
       ],
     },
   ],
