@@ -289,6 +289,19 @@ const experience = {
             "Developed a comprehensive inventory management system leveraging barcode and RFID technology, enhancing tracking accuracy and operational efficiency for retail and warehouse environments.",
           color: "#0071C5",
         },
+        {
+          title: "Full Stack Lead Developer (Full-time)",
+          company: "ReLOG3P SRL",
+          company_url: "https://relog3p.com/",
+          logo_path: "relog3p.jpg",
+          duration: "Sep 2023 - Mar 2024",
+          location: "Remote",
+          description: `•Contributed to convert the existing web platforms built with CMS(Wordpress, Drupal) into MERN stack based ones.
+                        •Devoted to UI/UX designing with MUI.
+                        •Achieved remarkable performance in reorganizing big MySQL database.
+          `,
+          color: "#0071C5",
+        },
       ],
     },
   ],
