@@ -72,16 +72,14 @@ function Contact(props) {
             <div className="contact-heading-img-div">
               <div className="contact-heading-img-div">
                 <p>
-                  Full Name: <br></br>Bohdan Bondarchuk
+                  Full Name: <br></br>Andrew Dyer
+                </p>
+
+                <p>
+                  Email: <br></br>AndrewGranvilleDyer@outlook.com
                 </p>
                 <p>
-                  Full Name(with USA clients' business): <br></br>Harry Pham
-                </p>
-                <p>
-                  Email: <br></br>bohdan_data@outlook.com
-                </p>
-                <p>
-                  Phone: <br></br>+380 684089009
+                  Phone: <br></br>+1 214 898 9074
                 </p>
               </div>
             </div>
